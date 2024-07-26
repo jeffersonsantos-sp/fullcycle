@@ -29,5 +29,5 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: false
-          tags: updateinformatica/fc2-develop:latest 
+          tags: updateinformatica/fc2-develop:v1
           
